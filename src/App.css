@@ -169,6 +169,10 @@ img {
     align-items: center;
 }
 
+.button--flex:hover {
+    color: var(--container-color);
+}
+
 /*=============== BREAKPOINTS ===============*/
 /* For large devices */
 @media screen and (max-width: 992px) {
