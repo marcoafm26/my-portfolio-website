@@ -25,13 +25,13 @@
 }
 
 .home__title {
-    font-size: var(--big-font-size);
+    font-size: 3rem;
     margin-bottom: var(--mb-0-25);
 }
 
 .home__hand {
-    width: 38px;
-    height: 38px;
+    width: 3rem;
+    height: 3rem;
     margin-left: 0.4rem;
 }
 
