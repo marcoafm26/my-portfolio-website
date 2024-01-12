@@ -4,6 +4,9 @@
     width: 100vw;
 }
 
+.footer img {
+    height: calc(var(--header-height) + 1.5rem);
+}
 .footer__container {
     padding: 2rem 0 2rem;
 }

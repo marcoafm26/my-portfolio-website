@@ -1,10 +1,13 @@
 // import React from 'react';
+import LogoImg from '../../assets/logo-portfolio.png';
 import './footer.css';
 const Footer = () => {
     return (
         <footer className="footer">
             <div className="footer__container container">
-                <h1 className="footer__title">Marco</h1>
+                <h1 className="footer__title">
+                    <img src={LogoImg} alt="" />
+                </h1>
                 <ul className="footer__list">
                     <li>
                         <a href="#home" className="footer__link">
